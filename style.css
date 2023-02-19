@@ -53,3 +53,10 @@ input.right {
   font-size: 20px;
   color: #005FAC;
 }
+/* failures Style */
+.part{
+  list-style: none;
+  list-style-image: url(images/chekhmark.png);
+ align-items: center
+ ;
+}
